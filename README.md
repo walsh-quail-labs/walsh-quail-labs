@@ -4,8 +4,8 @@
 
 
 ## List of Public Repositories
-* [Single-cell spatial landscapes of the lung tumor immune microenvironment](https://github.com/walsh-quail-labs/IMC-Lung)
-* [Single-cell spatial immune landscapes of primary and metastatic brain tumors](https://github.com/walsh-quail-labs/IMC-Brain)
+* [Single-cell spatial landscapes of the lung tumour immune microenvironment](https://github.com/walsh-quail-labs/IMC-Lung)
+* [Single-cell spatial immune landscape of primary and metastatic brain tumours](https://github.com/walsh-quail-labs/IMC-Brain)
 
 <!--## Maintainers of these repositories
 * [Elham Karimi](https://github.com/ekarimi)
