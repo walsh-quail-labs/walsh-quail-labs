@@ -14,12 +14,10 @@
 
 
 
-
 **Contact information:**<br>
 [Logan Walsh, PhD](https://www.lwalshlab.com/)<br>
-Assistant Professor<br>
-Rosalind & Morris Goodman Cancer<br>
-Research Centre<br>
+Associate Professor<br>
+Rosalind & Morris Goodman Cancer Institute<br>
 Department of Human Genetics<br>
 McGill University<br>
 1160 Pine Avenue West<br>
